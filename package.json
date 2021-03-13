@@ -1,0 +1,9 @@
+{
+  "name": "neurolink-server",
+  "version": "0.0.1",
+  "description": "Server for NeuroLink, the social network for people affected with neurological diseases.",
+  "main": "index.js",
+  "author": "Juan Ramírez Ruiz <juan.ramirez.ruiz@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
