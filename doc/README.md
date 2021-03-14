@@ -12,7 +12,7 @@ After having the surgery, in the process of thinking about our life **after** le
 
 # Concept
 
-NeuroLink tries to be a _social network_ for people affected or related with ABI.
+NeuroLink aims to be a _social network_ for people affected or related with ABI.
 
 ## Tech stack and code organization
 
