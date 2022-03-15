@@ -1,6 +1,9 @@
-# Neurolink
+<img src="https://juanramirez.github.io/assets/images/projects/neurolink/logo.png" alt="NeuroLink" width="200"/>
+
+# Neurolink-server
 
 **NeuroLink** is a project first conceived as a personal rehab exercise after suffering a brain tumor removal surgery in March 2020, and consequently _brain injury_ (also called [ABI](https://en.wikipedia.org/wiki/Acquired_brain_injury)); but also intended for helping other people who can suffer this kind of situations in the future (ABI or, in general, [neurological disorders](https://en.wikipedia.org/wiki/Neurological_disorder)).
+You can read about my personal experience with that process in [my blog](http://juanramirez.github.io/posts).
 
 After having my surgery, in the process of thinking about our life **after** leaving the hospital, we (my wife and me) found that there _were_ resources for rehabilitation and people who could help us, but there wasn't any _easy way to find_ them and connect.
 
