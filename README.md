@@ -19,4 +19,4 @@ NeuroLink aims to be a _social network_ for people directly or indirectly affect
 
 ## Tech stack and code organization
 
-The project is conceived as a client-server project, mainly in Javascript. The server is REST and built on top of [ExpressJS](https://expressjs.com/).
+The project is conceived as a client-server project, mainly in Javascript. The server is REST and being built on top of [ExpressJS](https://expressjs.com/).
